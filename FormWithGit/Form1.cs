@@ -16,6 +16,7 @@ namespace FormWithGit
         { 
             //some comment here
             InitializeComponent();
+
         }
     }
 }
