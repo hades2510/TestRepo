@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FormWithGit
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+<<<<<<< HEAD
+        { 
+            //some comment here
+=======
+        {
+>>>>>>> 5731913770961acaf84d7fe5cb30b75f6529e68a
+            InitializeComponent();
+        }
+    }
+}
